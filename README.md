@@ -11,8 +11,8 @@
  | Convolutional Neural Networks (CNN)-I  | |  |  |
  | Convolutional Neural Networks (CNN)-II | |  |  |
  | Practice CNN                   | |  |  |
- | RNN-I                          | |  |  |
- | RNN-II                         | |  |  |
+ | Recurrent Neural Networks (RNN)-I   | |  |  |
+ | Recurrent Neural Networks (RNN)-II  | |  |  |
  | Practice RNN                   | |  |  |
  | Transformer                    | |  |Attention is All You Need |
  | Vision Transformer             | |  |ViT, BERT, MAE|
