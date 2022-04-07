@@ -6,8 +6,9 @@
  | Linear Model              | |  |  |
  | CNN-I                     | |  |  |
  | CNN-II                    | |  |  |
+ | Practice CNN              | |  |  |
  | RNN-I                     | |  |  |
  | RNN-II                    | |  |  |
- | RNN(Practice)                    | |  |  |
+ | Practice RNN              | |  |  |
  | Transformer               | |  |Attention is All You Need |
  | Vision Transformer        | |  |ViT, BERT, MAE|
