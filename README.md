@@ -1,6 +1,8 @@
 # Deep Learning
 
- | Tracker                   | Success Score    | Reference |
+ | Tracker                   | Slides   | Reference |
  |:-----------               |:----------------:|:----------------:|  
- | Transformer               | 0.671  |  18 (RTX 2080Ti)  |        |  
- | Vision Transformer        | 0.653  |  33 (RTX 2080Ti)  |        |
+ | Introduction              | |  18 (RTX 2080Ti)  |
+ | Linear Model              | |  18 (RTX 2080Ti)  |
+ | Transformer               | |  18 (RTX 2080Ti)  |
+ | Vision Transformer        | |  33 (RTX 2080Ti)  |
