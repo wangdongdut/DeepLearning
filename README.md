@@ -7,6 +7,7 @@
  | Linear Model              | |  |  |
  | NN and DL                 | |  |  |
  | Network Training          | |  |  |
+ | Practice Basic Models     | |  |  |
  | CNN-I                     | |  |  |
  | CNN-II                    | |  |  |
  | Practice CNN              | |  |  |
