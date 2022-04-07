@@ -4,6 +4,7 @@
  |:-----------               |:----------------:|:----------------:|:----------------:|   
  | Introduction              | |  |  |
  | Linear Model              | |  |  |
+ | Nerual Network            | |  |  |
  | CNN-I                     | |  |  |
  | CNN-II                    | |  |  |
  | Practice CNN              | |  |  |
