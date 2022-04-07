@@ -10,4 +10,4 @@
  | RNN-II                    | |  |
  | Linear Model              | |  |
  | Transformer               | | Attention is All You Need |
- | Vision Transformer        | | ViT, BERT, MAE |
+ | Vision Transformer        | | ViT<br>BERT<br>MAE |
