@@ -3,6 +3,7 @@
  | Content                   | Slides/Videos   | Notes | Reference |
  |:-----------               |:----------------:|:----------------:|:----------------:|   
  | Introduction              | |  |  |
+ | Basic Knowledge           | |  |  |
  | Linear Model              | |  |  |
  | Nerual Network            | |  |  |
  | CNN-I                     | |  |  |
