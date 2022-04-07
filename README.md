@@ -8,8 +8,8 @@
  | Nerual Network & Deep Learning | |  |  |
  | Network Training               | |  |  |
  | Practice Basic Models          | |  |  |
- | CNN-I                          | |  |  |
- | CNN-II                         | |  |  |
+ | Convolutional Neural Networks (CNN)-I  | |  |  |
+ | Convolutional Neural Networks (CNN)-II | |  |  |
  | Practice CNN                   | |  |  |
  | RNN-I                          | |  |  |
  | RNN-II                         | |  |  |
