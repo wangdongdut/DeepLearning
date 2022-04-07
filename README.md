@@ -5,7 +5,8 @@
  | Introduction              | |  |  |
  | Basic Knowledge           | |  |  |
  | Linear Model              | |  |  |
- | Nerual Network            | |  |  |
+ | NN and DL                 | |  |  |
+ | Network Training          | |  |  |
  | CNN-I                     | |  |  |
  | CNN-II                    | |  |  |
  | Practice CNN              | |  |  |
