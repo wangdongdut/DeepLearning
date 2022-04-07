@@ -1,6 +1,6 @@
 # Deep Learning
 
- | Tracker                   | Slides   | Reference |
+ | Content                   | Slides   | Reference |
  |:-----------               |:----------------:|:----------------:|  
  | Introduction              | |  |
  | Linear Model              | |  |
