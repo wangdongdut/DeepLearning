@@ -10,7 +10,7 @@
  | Network Training               | | [[PDF]()] |  |
  | Practice Basic Models          | | [[PDF]()] |  |
  | Convolutional Neural Networks (CNN)-I  | | [[PDF]()] |  |
- | Convolutional Neural Networks (CNN)-II | | [[PDF]()] |  |
+ | Convolutional Neural Networks (CNN)-II | | [[PDF]()] | AlexNet, VGG, ResNet |
  | Practice CNN                   | | [[PDF]()] |  |
  | Recurrent Neural Networks (RNN)-I   | | [[PDF]()] |  |
  | Recurrent Neural Networks (RNN)-II  | | [[PDF]()] |  |
