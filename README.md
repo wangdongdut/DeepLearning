@@ -21,4 +21,5 @@
  | Summary                        | | [[PDF]()] |  |
 
 ## Reference
-* **[动手学深度学习[李沐]](https://courses.d2l.ai/zh-v2/)：https://courses.d2l.ai/zh-v2/** 
+* **[李沐-动手学深度学习](https://courses.d2l.ai/zh-v2/)：https://courses.d2l.ai/zh-v2/** 
+* **[李宏毅-《机器学习/深度学习》2021课程](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php**
