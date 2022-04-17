@@ -38,3 +38,4 @@
     * **Note(Unofficial):**
       * **[leeml-notes](https://github.com/datawhalechina/leeml-notes)：https://github.com/datawhalechina/leeml-notes**
       * **[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)：https://github.com/fengdu78/deeplearning_ai_books**
+      * **[Private](https://github.com/wangdongdut/DeepLearningPrivateCollection)
