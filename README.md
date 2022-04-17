@@ -33,5 +33,5 @@
     * **[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)：https://github.com/fengdu78/deeplearning_ai_books**
     * 
   * **Paper Reading & Writting：**
-    * **深度学习论文精读: https://github.com/mli/paper-reading**
+    * **深度学习论文精读：https://github.com/mli/paper-reading**
     * **论文写作资源收集：https://github.com/wangdongdut/PaperWriting**
