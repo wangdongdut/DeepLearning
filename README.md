@@ -35,3 +35,5 @@
   * **Note(Unofficial)：**
     * **[leeml-notes](https://github.com/datawhalechina/leeml-notes)：https://github.com/datawhalechina/leeml-notes**
     * **[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)：https://github.com/fengdu78/deeplearning_ai_books**
+  * **Others：**
+    * **[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)：https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf**
