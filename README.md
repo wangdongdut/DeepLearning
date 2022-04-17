@@ -32,8 +32,8 @@
   * **Paper Reading & Writting：**
     * **[深度学习论文精读](https://github.com/mli/paper-reading)：https://github.com/mli/paper-reading**
     * **[论文写作资源收集](https://github.com/wangdongdut/PaperWriting)：https://github.com/wangdongdut/PaperWriting**
-  * **Note(Unofficial)：**
-    * **[leeml-notes](https://github.com/datawhalechina/leeml-notes)：https://github.com/datawhalechina/leeml-notes**
-    * **[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)：https://github.com/fengdu78/deeplearning_ai_books**
   * **Others：**
     * **[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)：https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf**
+    * **Note(Unofficial):**
+      * **[leeml-notes](https://github.com/datawhalechina/leeml-notes)：https://github.com/datawhalechina/leeml-notes**
+      * **[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)：https://github.com/fengdu78/deeplearning_ai_books**
