@@ -29,10 +29,9 @@
     * **[邱锡鹏-神经网络与深度学习](https://nndl.github.io/)：https://nndl.github.io/**
     * **[李沐-动手学深度学习](https://zh.d2l.ai/)：https://zh.d2l.ai/**
     * **[Ian Goodfellow-Deep Learning](https://www.deeplearningbook.org/)：https://www.deeplearningbook.org/**
-  * **Note(Unofficial)：**
-    * **[leeml-notes](https://github.com/datawhalechina/leeml-notes)：https://github.com/datawhalechina/leeml-notes**
-    * **[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)：https://github.com/fengdu78/deeplearning_ai_books**
-    * 
   * **Paper Reading & Writting：**
     * **[深度学习论文精读](https://github.com/mli/paper-reading)：https://github.com/mli/paper-reading**
     * **[论文写作资源收集](https://github.com/wangdongdut/PaperWriting)：https://github.com/wangdongdut/PaperWriting**
+  * **Note(Unofficial)：**
+    * **[leeml-notes](https://github.com/datawhalechina/leeml-notes)：https://github.com/datawhalechina/leeml-notes**
+    * **[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)：https://github.com/fengdu78/deeplearning_ai_books**
