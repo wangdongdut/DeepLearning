@@ -27,7 +27,7 @@
     * **[吴恩达-深度学习专业2021](https://www.deeplearningai.net/specializationDetail/Deep_Learning_Specialization): https://www.deeplearningai.net/specializationDetail/Deep_Learning_Specialization**
   * **Book：**
     * **[邱锡鹏-神经网络与深度学习](https://nndl.github.io/)：https://nndl.github.io/**
-    * **[李沐-动手学深度学习](https://zh.d2l.ai/)：https://zh.d2l.ai/**
+    * **[Aston Zhang-动手学深度学习](https://zh.d2l.ai/)：https://zh.d2l.ai/**
     * **[Ian Goodfellow-Deep Learning](https://www.deeplearningbook.org/)：https://www.deeplearningbook.org/**
   * **Paper Reading & Writting：**
     * **[深度学习论文精读](https://github.com/mli/paper-reading)：https://github.com/mli/paper-reading**
