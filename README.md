@@ -21,4 +21,4 @@
  | Summary                        | | [[PDF]()] |  |
 
 ## Reference
-* **动手学深度学习[李沐]：** https://courses.d2l.ai/zh-v2/
+* **[动手学深度学习[李沐]](https://courses.d2l.ai/zh-v2/)：https://courses.d2l.ai/zh-v2/** 
