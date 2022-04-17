@@ -27,5 +27,5 @@
     * **[吴恩达-深度学习专业2021](https://www.deeplearningai.net/specializationDetail/Deep_Learning_Specialization): https://www.deeplearningai.net/specializationDetail/Deep_Learning_Specialization**
   * **Book：**
     * **[邱锡鹏-神经网络与深度学习](https://nndl.github.io/)：https://nndl.github.io/**
-
+    * **[Ian Goodfellow-Deep Learning](https://www.deeplearningbook.org/)：https://www.deeplearningbook.org/**
   * **Note(Unofficial)：**
