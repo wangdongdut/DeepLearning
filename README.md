@@ -29,3 +29,5 @@
     * **[邱锡鹏-神经网络与深度学习](https://nndl.github.io/)：https://nndl.github.io/**
     * **[Ian Goodfellow-Deep Learning](https://www.deeplearningbook.org/)：https://www.deeplearningbook.org/**
   * **Note(Unofficial)：**
+    * **[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)：https://github.com/fengdu78/deeplearning_ai_books
+    * 
