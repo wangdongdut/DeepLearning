@@ -34,6 +34,7 @@
     * **[论文写作资源收集](https://github.com/wangdongdut/PaperWriting)：https://github.com/wangdongdut/PaperWriting**
   * **Others：**
     * **[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)：https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf**
+    * **[3blue1brown](https://space.bilibili.com/88461692)：https://space.bilibili.com/88461692**
     * **Note(Unofficial):**
       * **[leeml-notes](https://github.com/datawhalechina/leeml-notes)：https://github.com/datawhalechina/leeml-notes**
       * **[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)：https://github.com/fengdu78/deeplearning_ai_books**
