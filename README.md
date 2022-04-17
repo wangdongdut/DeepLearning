@@ -21,5 +21,5 @@
  | Summary                        | | [[PDF]()] |  |
 
 ## Reference
-* **[李沐-动手学深度学习](https://courses.d2l.ai/zh-v2/)：https://courses.d2l.ai/zh-v2/** [[**B站**]()]
-* **[李宏毅-机器学习/深度学习2021](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php**
+* **[李沐-动手学深度学习](https://courses.d2l.ai/zh-v2/)：https://courses.d2l.ai/zh-v2/** [[**B站**](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)]
+* **[李宏毅-机器学习/深度学习2021](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php** [[**B站**](https://www.bilibili.com/video/BV1JA411c7VT)]
