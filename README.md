@@ -17,7 +17,7 @@
  | **Practice RNN**                   | | [[PDF]()] |  |
  | **Transformer**                    | | [[PDF]()] |Attention is All You Need |
  | **Vision Transformer**             | | [[PDF]()] |BERT, ViT, MAE, CLIP|
- | **Other Hot Topics**               | | [[PDF]()] |  |
+ | **Advance Topics**                 | | [[PDF]()] |  |
  | **Summary**                        | | [[PDF]()] |  |
 
 ## Reference
