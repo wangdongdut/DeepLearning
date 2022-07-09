@@ -41,7 +41,7 @@
       * [private](https://github.com/wangdongdut/DeepLearningPrivateCollection)
 
 ## Advance Topics
+  * **Self-supervised Learning：**
   * **Reinforcement Learning：**
-    * **[李沐-动手学深度学习](https://courses.d2l.ai/zh-v2/)：https://courses.d2l.ai/zh-v2/** [[**B站**](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)]
   * **Transfer Learning/Meta-Learning/Few-shot Learning：**
-    * **[李沐-动手学深度学习](https://courses.d2l.ai/zh-v2/)：https://courses.d2l.ai/zh-v2/** [[**B站**](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)]
+
