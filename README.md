@@ -49,6 +49,7 @@
       * **[Reinforcement Learning[David Silver]](https://www.davidsilver.uk/teaching/)**：https://www.davidsilver.uk/teaching/
     * **Book/Manuscript：**
       * **[EasyRL[Datawhale]](https://github.com/datawhalechina/easy-rl)**：https://github.com/datawhalechina/easy-rl
+      * **[动手学强化学习[张伟楠等]](https://hrl.boyuai.com/)**：https://hrl.boyuai.com/
 
   * **Transfer Learning/Meta-Learning/Few-shot Learning：**
 
