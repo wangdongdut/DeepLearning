@@ -41,9 +41,14 @@
       * [private](https://github.com/wangdongdut/DeepLearningPrivateCollection)
 
 ## Advance Topics
+  * **Model Compression/Knowledge Distillation：**
+      * **Course/Video：**
+      * **Book/Manuscript：**
+
   * **Self-supervised Learning：**
       * **Course/Video：**
         * **[自监督学习[火炉课堂]](https://www.bilibili.com/video/BV1mf4y1K7xW)**：https://www.bilibili.com/video/BV1mf4y1K7xW
+      * **Book/Manuscript：**
         
   * **Foundation Model/Big Model**
       * **Course/Video：**
