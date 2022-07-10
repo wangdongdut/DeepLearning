@@ -5,7 +5,7 @@
  |:-----------               |:----------------:|:----------------:|:----------------:|
  | **Introduction**                   | | [[PDF]()] | **Stanford AI Report 2022：**[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf),[Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **探寻人工智能:**[第一季](https://www.bilibili.com/video/BV1tv411y76w),[第二季](https://www.bilibili.com/video/BV1Fz4y1f7gn) |
  | **Basic Knowledge**                | | [[PDF]()] | [**Pytorch**](https://pytorch.org/) <br /> [**Jupyter**](https://jupyter.org/), [**Pycharm**](https://www.jetbrains.com/pycharm/) |
- | **Linear Model**                   | | [[PDF]()] |  |
+ | **Linear Model**                   | | [[PDF]()] | [**神经网络与深度学习[吴恩达]**](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
  | **Nerual Network & Deep Learning** | | [[PDF]()] | [**神经网络与深度学习[吴恩达]**](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
  | **Network Training**               | | [[PDF]()] | [**神经网络训练不起来怎么办[李宏毅]**](https://www.bilibili.com/video/BV1JA411c7VT?p=5) |
  | **Practice Basic Models**          | | [[PDF]()] | [**Pytorch-Tutorials**](https://pytorch.org/tutorials/) |
