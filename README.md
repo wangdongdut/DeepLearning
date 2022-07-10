@@ -16,7 +16,7 @@
  | **Recurrent Neural Networks (RNN)-II**  | | [[PDF]()] |  |  |
  | **Practice RNN**                   | | [[PDF]()] |  |  |
  | **Transformer**                    | | [[PDF]()] |[Attention is All You Need](https://arxiv.org/abs/1706.03762) | [Attention is All You Need](https://www.bilibili.com/video/BV1pu411o7BE/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
- | **Vision Transformer**             | | [[PDF]()] |ViT, DETR| ViT, DETR |
+ | **Vision Transformer**             | | [[PDF]()] |ViT, [DETR](https://arxiv.org/pdf/2005.12872.pdf)| ViT, [DETR](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
  | **Advance Topics**                 | | [[PDF]()] |  |  |
  | **Summary**                        | | [[PDF]()] |  |  |
 
