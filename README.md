@@ -57,4 +57,6 @@
       * **[[强化学习(第2版)[Richard S. Sutton等]](https://book.douban.com/subject/34809689/)**：https://book.douban.com/subject/34809689/
 
   * **Transfer Learning/Meta-Learning/Few-shot Learning：**
-
+    * **Course/Video：**
+      **[元学习[火炉课堂]](https://www.bilibili.com/video/BV1X34y1X7Z5)：https://www.bilibili.com/video/BV1X34y1X7Z5
+      
