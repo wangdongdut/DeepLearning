@@ -9,7 +9,7 @@
  | **Nerual Network & Deep Learning** | | [[PDF]()] | [**神经网络与深度学习[吴恩达]**](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
  | **Network Training**               | | [[PDF]()] | [**神经网络训练不起来怎么办[李宏毅]**](https://www.bilibili.com/video/BV1JA411c7VT?p=5) |
  | **Practice Basic Models**          | | [[PDF]()] | [**Pytorch-Tutorials**](https://pytorch.org/tutorials/) |
- | **Convolutional Neural Networks (CNN)-I**  | | [[PDF]()] | [**cnn-explainer**](https://poloclub.github.io/cnn-explainer/) |
+ | **Convolutional Neural Networks (CNN)-I**  | | [[PDF]()] |  [**CNN Node-Link Visualization**](https://www.cs.cmu.edu/~aharley/vis/) <br /> [**cnn-explainer**](https://poloclub.github.io/cnn-explainer/) |
  | **Convolutional Neural Networks (CNN)-II** | | [[PDF]()] | **AlexNet:**[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf),[Video](https://www.bilibili.com/video/BV1ih411J7Kz/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **ResNet:**[Paper](https://arxiv.org/pdf/1512.03385.pdf),[Video](https://www.bilibili.com/video/BV1P3411y7nn/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
  | **Practice CNN**                   | | [[PDF]()] | [**MM-Detection**](https://github.com/open-mmlab/mmdetection/), [**Detectron2**](https://github.com/facebookresearch/detectron2) |
  | **Recurrent Neural Networks (RNN)**   | | [[PDF]()] | [**RNN[李宏毅]**](https://www.bilibili.com/video/BV13x411v7US?p=36)  <br /> [**RNN模型与NLP应用[王树森]**](https://www.bilibili.com/medialist/detail/ml1244871485) |
