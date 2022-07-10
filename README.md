@@ -3,22 +3,22 @@
 ## Content
  | Content                   | Slides | Videos | Additional Reading | 
  |:-----------               |:----------------:|:----------------:|:----------------:|
- | **Introduction**                   | | [[PDF]()] | **Stanford AI Report 2022：**[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf),[Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **探寻人工智能:**[第一季](https://www.bilibili.com/video/BV1tv411y76w),[第二季](https://www.bilibili.com/video/BV1Fz4y1f7gn) |
- | **Basic Knowledge**                | | [[PDF]()] |  |
- | **Linear Model**                   | | [[PDF]()] | [**神经网络与深度学习[吴恩达]**](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
- | **Nerual Network & Deep Learning** | | [[PDF]()] | [**神经网络与深度学习[吴恩达]**](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
- | **Network Training**               | | [[PDF]()] | [**神经网络训练不起来怎么办[李宏毅]**](https://www.bilibili.com/video/BV1JA411c7VT?p=5) |
- | **Practice Basic Models**          | | [[PDF]()] | [**Pytorch-Tutorials**](https://pytorch.org/tutorials/) |
- | **Convolutional Neural Networks (CNN)-I**  | | [[PDF]()] |  [**CNN Node-Link Visualization**](https://www.cs.cmu.edu/~aharley/vis/) <br /> [**cnn-explainer**](https://poloclub.github.io/cnn-explainer/) |
- | **Convolutional Neural Networks (CNN)-II** | | [[PDF]()] | **AlexNet:**[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf),[Video](https://www.bilibili.com/video/BV1ih411J7Kz/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **ResNet:**[Paper](https://arxiv.org/pdf/1512.03385.pdf),[Video](https://www.bilibili.com/video/BV1P3411y7nn/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
- | **Practice CNN**                   | | [[PDF]()] | [**MM-Detection**](https://github.com/open-mmlab/mmdetection/), [**Detectron2**](https://github.com/facebookresearch/detectron2) |
- | **Recurrent Neural Networks (RNN)**   | | [[PDF]()] | [**RNN[李宏毅]**](https://www.bilibili.com/video/BV13x411v7US?p=36)  <br /> [**RNN模型与NLP应用[王树森]**](https://www.bilibili.com/medialist/detail/ml1244871485) |
- | **Practice RNN**                   | | [[PDF]()] | [**动手学深度学习[李沐]51-60**](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497) |
- | **Transformer**                    | | [[PDF]()] |**Attention is All You Need:**[Paper](https://arxiv.org/abs/1706.03762), [Video](https://www.bilibili.com/video/BV1pu411o7BE/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
- | **Vision Transformer**             | | [[PDF]()] |**ViT:** [Paper](https://arxiv.org/pdf/2010.11929.pdf), [Video](https://www.bilibili.com/video/BV15P4y137jb/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **DETR:** [Paper](https://arxiv.org/pdf/2005.12872.pdf), [Video](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
- | **Practice Transformer**           | | [[PDF]()] |**ViT:** [Paper](https://arxiv.org/pdf/2010.11929.pdf), [Video](https://www.bilibili.com/video/BV15P4y137jb/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **DETR:** [Paper](https://arxiv.org/pdf/2005.12872.pdf)，[Video](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
- | **Advance Topics**                 | | [[PDF]()] |  |
- | **Summary**                        | | [[PDF]()] |  |
+ | **Introduction**                   | [[PDF]()] | [[Video]()] | **Stanford AI Report 2022：**[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf),[Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **探寻人工智能:**[第一季](https://www.bilibili.com/video/BV1tv411y76w),[第二季](https://www.bilibili.com/video/BV1Fz4y1f7gn) |
+ | **Basic Knowledge**                | [[PDF]()] | [[Video]()] |  |
+ | **Linear Model**                   | [[PDF]()] | [[Video]()] | [**神经网络与深度学习[吴恩达]**](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
+ | **Nerual Network & Deep Learning** | [[PDF]()] | [[Video]()] | [**神经网络与深度学习[吴恩达]**](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
+ | **Network Training**               | [[PDF]()] | [[Video]()] | [**神经网络训练不起来怎么办[李宏毅]**](https://www.bilibili.com/video/BV1JA411c7VT?p=5) |
+ | **Practice Basic Models**          | [[PDF]()] | [[Video]()] | [**Pytorch-Tutorials**](https://pytorch.org/tutorials/) |
+ | **Convolutional Neural Networks (CNN)-I**  | [[PDF]()] | [[Video]()] |  [**CNN Node-Link Visualization**](https://www.cs.cmu.edu/~aharley/vis/) <br /> [**cnn-explainer**](https://poloclub.github.io/cnn-explainer/) |
+ | **Convolutional Neural Networks (CNN)-II** | [[PDF]()] | [[Video]()] | **AlexNet:**[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf),[Video](https://www.bilibili.com/video/BV1ih411J7Kz/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **ResNet:**[Paper](https://arxiv.org/pdf/1512.03385.pdf),[Video](https://www.bilibili.com/video/BV1P3411y7nn/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
+ | **Practice CNN**                   | [[PDF]()] | [[Video]()] | [**MM-Detection**](https://github.com/open-mmlab/mmdetection/), [**Detectron2**](https://github.com/facebookresearch/detectron2) |
+ | **Recurrent Neural Networks (RNN)**   | [[PDF]()] | [[Video]()] | [**RNN[李宏毅]**](https://www.bilibili.com/video/BV13x411v7US?p=36)  <br /> [**RNN模型与NLP应用[王树森]**](https://www.bilibili.com/medialist/detail/ml1244871485) |
+ | **Practice RNN**                   | [[PDF]()] | [[Video]()] | [**动手学深度学习[李沐]51-60**](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497) |
+ | **Transformer**                    | [[PDF]()] | [[Video]()] |**Attention is All You Need:**[Paper](https://arxiv.org/abs/1706.03762), [Video](https://www.bilibili.com/video/BV1pu411o7BE/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
+ | **Vision Transformer**             | [[PDF]()] | [[Video]()] |**ViT:** [Paper](https://arxiv.org/pdf/2010.11929.pdf), [Video](https://www.bilibili.com/video/BV15P4y137jb/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **DETR:** [Paper](https://arxiv.org/pdf/2005.12872.pdf), [Video](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
+ | **Practice Transformer**           | [[PDF]()] | [[Video]()] |**ViT:** [Paper](https://arxiv.org/pdf/2010.11929.pdf), [Video](https://www.bilibili.com/video/BV15P4y137jb/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **DETR:** [Paper](https://arxiv.org/pdf/2005.12872.pdf)，[Video](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
+ | **Advance Topics**                 | [[PDF]()] | [[Video]()] |  |
+ | **Summary**                        | [[PDF]()] | [[Video]()] |  |
 
 ## Reference
   * **Course：**
