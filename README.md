@@ -43,9 +43,11 @@
 ## Advance Topics
   * **Self-supervised Learning：**
   * **Reinforcement Learning：**
-    * **[Deep Reinforcement Learning[ShusenWang]](https://github.com/wangshusen/DRL)**：https://github.com/wangshusen/DRL
-    * **[Intro to Reinforcement learning[BoleiZhou]](https://github.com/zhoubolei/introRL)**：https://github.com/zhoubolei/introRL
-    * **[[Reinforcement Learning[David Silver]](https://www.davidsilver.uk/teaching/)**：https://www.davidsilver.uk/teaching/
+    * **Course/Video：**
+    ** **[Deep Reinforcement Learning[ShusenWang]](https://github.com/wangshusen/DRL)**：https://github.com/wangshusen/DRL
+    ** **[Intro to Reinforcement learning[BoleiZhou]](https://github.com/zhoubolei/introRL)**：https://github.com/zhoubolei/introRL
+    ** **[[Reinforcement Learning[David Silver]](https://www.davidsilver.uk/teaching/)**：https://www.davidsilver.uk/teaching/
+    * **Book/Manuscript：**
 
   * **Transfer Learning/Meta-Learning/Few-shot Learning：**
 
