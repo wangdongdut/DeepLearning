@@ -58,6 +58,7 @@
   * **Reinforcement Learning：**
     * **Course/Video：**
       * **[Deep Reinforcement Learning[ShusenWang]](https://github.com/wangshusen/DRL)**：https://github.com/wangshusen/DRL
+      * **[Reinforcement Learning[HUNG-YI LEE](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)**：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php [[**B站**](https://www.bilibili.com/video/BV1JA411c7VT?p=30&vd_source=25a1c8bedba59db324491f001dae3cfb)]
       * **[Intro to Reinforcement learning[BoleiZhou]](https://github.com/zhoubolei/introRL)**：https://github.com/zhoubolei/introRL
       * **[动手学强化学习[张伟楠]](https://www.boyuai.com/elites/course/xVqhU42F5IDky94x)**：https://www.boyuai.com/elites/course/xVqhU42F5IDky94x
       * **[Reinforcement Learning[David Silver]](https://www.davidsilver.uk/teaching/)**：https://www.davidsilver.uk/teaching/
