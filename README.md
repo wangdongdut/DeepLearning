@@ -44,6 +44,7 @@
   * **Self-supervised Learning：**
   * **Reinforcement Learning：**
     * **[Deep Reinforcement Learning[ShusenWang]](https://github.com/wangshusen/DRL)**：https://github.com/wangshusen/DRL
+    * **[Intro to Reinforcement learning[BoleiZhou]](https://github.com/zhoubolei/introRL)**：https://github.com/zhoubolei/introRL
 
   * **Transfer Learning/Meta-Learning/Few-shot Learning：**
 
