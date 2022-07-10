@@ -44,6 +44,11 @@
   * **Self-supervised Learning：**
       * **Course/Video：**
         * **[自监督学习[火炉课堂]](https://www.bilibili.com/video/BV1mf4y1K7xW)**：https://www.bilibili.com/video/BV1mf4y1K7xW
+        
+  * **Foundation Model/Big Model**
+      * **Course/Video：**
+      
+      * **Book/Manuscript：**
 
   * **Reinforcement Learning：**
     * **Course/Video：**
