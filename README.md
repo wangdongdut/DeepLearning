@@ -43,7 +43,7 @@
 ## Advance Topics
   * **Self-supervised Learning：**
   * **Reinforcement Learning：**
-    **[Deep Reinforcement Learning[ShusenWang]](https://github.com/wangshusen/DRL)**：https://github.com/wangshusen/DRL
+    * **[Deep Reinforcement Learning[ShusenWang]](https://github.com/wangshusen/DRL)**：https://github.com/wangshusen/DRL
 
   * **Transfer Learning/Meta-Learning/Few-shot Learning：**
 
