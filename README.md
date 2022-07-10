@@ -48,6 +48,8 @@
   * **Self-supervised Learning：**
       * **Course/Video：**
         * **[自监督学习[火炉课堂]](https://www.bilibili.com/video/BV1mf4y1K7xW)**：https://www.bilibili.com/video/BV1mf4y1K7xW
+        * **[Reinforcement Learning[HUNG-YI LEE]](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)**：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php [[**B站**](https://www.bilibili.com/video/BV1JA411c7VT?p=19&vd_source=25a1c8bedba59db324491f001dae3cfb)]
+        
       * **Book/Manuscript：**
         
   * **Foundation Model/Big Model**
