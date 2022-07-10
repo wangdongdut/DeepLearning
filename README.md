@@ -3,7 +3,7 @@
 ## Content
  | Content                   | Slides/Videos   | Notes | Reference | 
  |:-----------               |:----------------:|:----------------:|:----------------:|
- | **Introduction**                   | | [[PDF]()] |  |
+ | **Introduction**                   | | [[PDF]()] | **Stanford AI Report 2022：**[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf),[Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb) |
  | **Basic Knowledge**                | | [[PDF]()] |  |
  | **Linear Model**                   | | [[PDF]()] |  |
  | **Nerual Network & Deep Learning** | | [[PDF]()] |  |
@@ -16,7 +16,7 @@
  | **Recurrent Neural Networks (RNN)-II**  | | [[PDF]()] |  |
  | **Practice RNN**                   | | [[PDF]()] |  |
  | **Transformer**                    | | [[PDF]()] |**Attention is All You Need:**[Paper](https://arxiv.org/abs/1706.03762), [Video](https://www.bilibili.com/video/BV1pu411o7BE/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
- | **Vision Transformer**             | | [[PDF]()] |**ViT:** [Paper](https://arxiv.org/pdf/2010.11929.pdf), [Video](https://www.bilibili.com/video/BV15P4y137jb/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **DETR:** [Paper](https://arxiv.org/pdf/2005.12872.pdf)，[Video](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb). |
+ | **Vision Transformer**             | | [[PDF]()] |**ViT:** [Paper](https://arxiv.org/pdf/2010.11929.pdf), [Video](https://www.bilibili.com/video/BV15P4y137jb/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **DETR:** [Paper](https://arxiv.org/pdf/2005.12872.pdf)，[Video](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
  | **Practice Transformer**           | | [[PDF]()] | |
  | **Advance Topics & Summary**       | | [[PDF]()] |  |
 
