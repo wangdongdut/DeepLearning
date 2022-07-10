@@ -1,7 +1,7 @@
 # Deep Learning
 
 ## Content
- | Content                   | Slides/Videos   | Notes | Reference |
+ | Content                   | Slides/Videos   | Notes | Reference | PaperReading |
  |:-----------               |:----------------:|:----------------:|:----------------:|   
  | **Introduction**                   | | [[PDF]()] |  |
  | **Basic Knowledge**                | | [[PDF]()] |  |
