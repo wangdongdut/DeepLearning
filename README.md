@@ -52,7 +52,7 @@
       * **[EasyRL[Datawhale]](https://github.com/datawhalechina/easy-rl)**：https://github.com/datawhalechina/easy-rl
       * **[动手学强化学习[张伟楠等]](https://hrl.boyuai.com/)**：https://hrl.boyuai.com/
       * **[Reinforcement Learning: An Introduction, 2nd edition[Richard S. Sutton等]](http://incompleteideas.net/book/the-book.html)**：http://incompleteideas.net/book/the-book.html
-      * **[[强化学习(第2版)[Richard S. Sutton等]](https://book.douban.com/subject/34809689/)：https://book.douban.com/subject/34809689/
+      * **[[强化学习(第2版)[Richard S. Sutton等]](https://book.douban.com/subject/34809689/)**：https://book.douban.com/subject/34809689/
 
   * **Transfer Learning/Meta-Learning/Few-shot Learning：**
 
