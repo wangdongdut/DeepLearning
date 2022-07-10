@@ -18,7 +18,7 @@
  | **Transformer**                    | | [[PDF]()] |[Attention is All You Need](https://arxiv.org/abs/1706.03762) | [Attention is All You Need](https://www.bilibili.com/video/BV1pu411o7BE/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
  | **Vision Transformer**             | | [[PDF]()] |[ViT](https://arxiv.org/pdf/2010.11929.pdf), [DETR](https://arxiv.org/pdf/2005.12872.pdf)| [ViT](https://www.bilibili.com/video/BV15P4y137jb/?vd_source=25a1c8bedba59db324491f001dae3cfb), [DETR](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
  | **Practice Transformer**             | | [[PDF]()] | |
- | **Advance Topics&Summary**           | | [[PDF]()] |  |  |
+ | **Advance Topics & Summary**           | | [[PDF]()] |  |  |
 
 ## Reference
   * **Course：**
