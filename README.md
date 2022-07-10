@@ -11,7 +11,7 @@
  | **Practice Basic Models**          | | [[PDF]()] |  |
  | **Convolutional Neural Networks (CNN)-I**  | | [[PDF]()] |  |
  | **Convolutional Neural Networks (CNN)-II** | | [[PDF]()] | **AlexNet:**[Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf),[Video](https://www.bilibili.com/video/BV1ih411J7Kz/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **ResNet:**[Paper](https://arxiv.org/pdf/1512.03385.pdf),[Video](https://www.bilibili.com/video/BV1P3411y7nn/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
- | **Practice CNN**                   | | [[PDF]()] | [**Detectron2**](https://github.com/facebookresearch/detectron2) |
+ | **Practice CNN**                   | | [[PDF]()] | [**MM-Detection**](https://github.com/open-mmlab/mmdetection/), [**Detectron2**](https://github.com/facebookresearch/detectron2) |
  | **Recurrent Neural Networks (RNN)-I**   | | [[PDF]()] |  |
  | **Recurrent Neural Networks (RNN)-II**  | | [[PDF]()] |  |
  | **Practice RNN**                   | | [[PDF]()] |  |
