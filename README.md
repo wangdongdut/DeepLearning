@@ -16,7 +16,7 @@
  | **Practice RNN**                   | [[PDF]()] | [[Video]()] | [**动手学深度学习[李沐]51-60**](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497) |
  | **Transformer**                    | [[PDF]()] | [[Video]()] |**Attention is All You Need:**[Paper](https://arxiv.org/abs/1706.03762), [Video](https://www.bilibili.com/video/BV1pu411o7BE/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
  | **Vision Transformer**             | [[PDF]()] | [[Video]()] |**ViT:** [Paper](https://arxiv.org/pdf/2010.11929.pdf), [Video](https://www.bilibili.com/video/BV15P4y137jb/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **DETR:** [Paper](https://arxiv.org/pdf/2005.12872.pdf), [Video](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
- | **Practice Transformer**           | [[PDF]()] | [[Video]()] |**ViT:** [Paper](https://arxiv.org/pdf/2010.11929.pdf), [Video](https://www.bilibili.com/video/BV15P4y137jb/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **DETR:** [Paper](https://arxiv.org/pdf/2005.12872.pdf)，[Video](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
+ | **Practice Transformer**           | [[PDF]()] | [[Video]()] |**BERT:** [Paper](https://arxiv.org/pdf/2010.11929.pdf), [Video](https://www.bilibili.com/video/BV1PL411M7eQ/) <br /> **MAE:** [Paper](https://arxiv.org/pdf/2005.12872.pdf), [Video](https://www.bilibili.com/video/BV1sq4y1q77t/) |
  | **Advance Topics**                 | [[PDF]()] | [[Video]()] |  |
  | **Summary**                        | [[PDF]()] | [[Video]()] |  |
 
