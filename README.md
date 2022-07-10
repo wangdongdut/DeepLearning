@@ -42,6 +42,9 @@
 
 ## Advance Topics
   * **Self-supervised Learning：**
+      * **Course/Video：**
+        * **[自监督学习[火炉课堂]](https://www.bilibili.com/video/BV1mf4y1K7xW)**：https://www.bilibili.com/video/BV1mf4y1K7xW
+
   * **Reinforcement Learning：**
     * **Course/Video：**
       * **[Deep Reinforcement Learning[ShusenWang]](https://github.com/wangshusen/DRL)**：https://github.com/wangshusen/DRL
