@@ -10,7 +10,7 @@
  | **Network Training**               | | [[PDF]()] |  |  |
  | **Practice Basic Models**          | | [[PDF]()] |  |  |
  | **Convolutional Neural Networks (CNN)-I**  | | [[PDF]()] |  |  |
- | **Convolutional Neural Networks (CNN)-II** | | [[PDF]()] | [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), VGG, [ResNet](https://arxiv.org/pdf/1512.03385.pdf) | [AlexNet](https://www.bilibili.com/video/BV1ih411J7Kz/?vd_source=25a1c8bedba59db324491f001dae3cfb), VGG, [ResNet](https://www.bilibili.com/video/BV1P3411y7nn/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
+ | **Convolutional Neural Networks (CNN)-II** | | [[PDF]()] | [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [ResNet](https://arxiv.org/pdf/1512.03385.pdf) | [AlexNet](https://www.bilibili.com/video/BV1ih411J7Kz/?vd_source=25a1c8bedba59db324491f001dae3cfb), [ResNet](https://www.bilibili.com/video/BV1P3411y7nn/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
  | **Practice CNN**                   | | [[PDF]()] |  |  |
  | **Recurrent Neural Networks (RNN)-I**   | | [[PDF]()] |  |  |
  | **Recurrent Neural Networks (RNN)-II**  | | [[PDF]()] |  |  |
