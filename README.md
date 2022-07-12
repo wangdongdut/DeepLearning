@@ -59,7 +59,7 @@
 
   * **Reinforcement Learning：**
     * **Course/Video：**
-      * **[Reinforcement Learning[HUNG-YI LEE]](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)**：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php [[**B站**](https://www.bilibili.com/video/BV1JA411c7VT?p=30&vd_source=25a1c8bedba59db324491f001dae3cfb)] https://speech.ee.ntu.edu.tw/~hylee/mlds/2018-spring.php [[**B站**](https://www.bilibili.com/video/BV1MW411w79n)
+      * **[Reinforcement Learning[HUNG-YI LEE]](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)**：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php [[**B站**](https://www.bilibili.com/video/BV1JA411c7VT?p=30&vd_source=25a1c8bedba59db324491f001dae3cfb)] https://speech.ee.ntu.edu.tw/~hylee/mlds/2018-spring.php [[**B站**](https://www.bilibili.com/video/BV1MW411w79n)]
       * **[Deep Reinforcement Learning[ShusenWang]](https://github.com/wangshusen/DRL)**：https://github.com/wangshusen/DRL
       * **[Intro to Reinforcement learning[BoleiZhou]](https://github.com/zhoubolei/introRL)**：https://github.com/zhoubolei/introRL
       * **[动手学强化学习[张伟楠]](https://www.boyuai.com/elites/course/xVqhU42F5IDky94x)**：https://www.boyuai.com/elites/course/xVqhU42F5IDky94x
