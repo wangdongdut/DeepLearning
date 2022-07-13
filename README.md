@@ -71,6 +71,8 @@
       * **[OpenAI-Spinningup](https://spinningup.openai.com/)**：https://spinningup.openai.com/
       * **[Reinforcement Learning: An Introduction, 2nd edition[Richard S. Sutton等]](http://incompleteideas.net/book/the-book.html)**：http://incompleteideas.net/book/the-book.html
       * **[强化学习(第2版)[Richard S. Sutton等]](https://book.douban.com/subject/34809689/)**：https://book.douban.com/subject/34809689/
+    * **Others：**
+      * [private](https://github.com/wangdongdut/ReinforcementLearning)
 
   * **Transfer Learning/Meta-Learning/Few-shot Learning：**
     * **Course/Video：**
