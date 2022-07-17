@@ -3,7 +3,7 @@
 ## Content
  | Content                   | Slides | Videos | Additional Reading | 
  |:-----------               |:----------------:|:----------------:|:----------------:|
- | **Introduction**                   | [[PDF]()] | [[Video]()] | **Stanford AI Report 2022：**[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf),[Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **探寻人工智能:**[第一季](https://www.bilibili.com/video/BV1tv411y76w),[第二季](https://www.bilibili.com/video/BV1Fz4y1f7gn) |
+ | **Introduction**                   | [[PDF]()] | [[Video]()] | **Stanford AI Report 2022：**[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf),[Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **探寻人工智能:**[第一季](https://www.bilibili.com/video/BV1tv411y76w),[第二季](https://www.bilibili.com/video/BV1Fz4y1f7gn) <br /> **[Reference](https://github.com/wangdongdut/DeepLearning#reference)** |
  | **Basic Knowledge**                | [[PDF]()] | [[Video]()] |  |
  | **Linear Model**                   | [[PDF]()] | [[Video]()] | [**神经网络与深度学习[吴恩达]**](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
  | **Nerual Network & Deep Learning** | [[PDF]()] | [[Video]()] | [**神经网络与深度学习[吴恩达]**](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
