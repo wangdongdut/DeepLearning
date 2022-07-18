@@ -64,7 +64,6 @@
       * **[Intro to Reinforcement learning[BoleiZhou]](https://github.com/zhoubolei/introRL)**：https://github.com/zhoubolei/introRL
       * **[动手学强化学习[张伟楠]](https://www.boyuai.com/elites/course/xVqhU42F5IDky94x)**：https://www.boyuai.com/elites/course/xVqhU42F5IDky94x
       * **[Reinforcement Learning[David Silver]](https://www.davidsilver.uk/teaching/)**：https://www.davidsilver.uk/teaching/
-      * **[Multi-Agent AI[JunWang]](https://www.bilibili.com/video/BV1fz4y1S72S)**：https://www.bilibili.com/video/BV1fz4y1S72S
     * **Book/Manuscript：**
       * **[EasyRL[Datawhale]](https://github.com/datawhalechina/easy-rl)**：https://github.com/datawhalechina/easy-rl
       * **[动手学强化学习[张伟楠等]](https://hrl.boyuai.com/)**：https://hrl.boyuai.com/
