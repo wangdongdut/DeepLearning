@@ -46,9 +46,9 @@
       * **[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)：https://github.com/fengdu78/deeplearning_ai_books**
       * [private](https://github.com/wangdongdut/DeepLearningPrivateCollection)
 
-# Advance Topics
+## Advance Topics
 
-## **Model Compression/Knowledge Distillation**
+### **Model Compression/Knowledge Distillation**
   * **Course/Video：**
   * **Book/Manuscript：**
 
