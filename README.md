@@ -9,7 +9,7 @@
 
  | Content                   | Slides | Videos | Additional Reading | 
  |:-----------               |:----------------:|:----------------:|:----------------:|
- | **Introduction**                   | [[PDF]()] | [[Video]()] |  <br /> [ImageNet挑战赛风云](https://mp.weixin.qq.com/s/IO9fNVSW4CF15Ls93Hak8A) <br /> [Reference](https://github.com/wangdongdut/DeepLearning#reference) |
+ | **Introduction**                   | [[PDF]()] | [[Video]()] |  [ImageNet挑战赛风云](https://mp.weixin.qq.com/s/IO9fNVSW4CF15Ls93Hak8A) <br /> [Reference](https://github.com/wangdongdut/DeepLearning#reference) |
  | **Basic Knowledge**                | [[PDF]()] | [[Video]()] | [如何看懂深度学习论文里的数学原理部分？[深度碎片]](https://www.zhihu.com/question/266533669) |
  | **Linear Model**                   | [[PDF]()] | [[Video]()] | [神经网络与深度学习[吴恩达]](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
  | **Nerual Network & Deep Learning** | [[PDF]()] | [[Video]()] | [神经网络与深度学习[吴恩达]](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
