@@ -1,6 +1,10 @@
 # Deep Learning
 
 ## Content
+
+ Pre-Reading: 
+
+
  | Content                   | Slides | Videos | Additional Reading | 
  |:-----------               |:----------------:|:----------------:|:----------------:|
  | **Introduction**                   | [[PDF]()] | [[Video]()] | Stanford AI Report 2022：[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf),[Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> 
