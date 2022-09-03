@@ -52,38 +52,36 @@
   * **Course/Video：**
   * **Book/Manuscript：**
 
-  * **Self-supervised Learning：**
-      * **Course/Video：**
-        * **[自监督学习[火炉课堂]](https://www.bilibili.com/video/BV1mf4y1K7xW)**：https://www.bilibili.com/video/BV1mf4y1K7xW
-        * **[Self-supervised Learning[HUNG-YI LEE]](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)**：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php [[**B站**](https://www.bilibili.com/video/BV1JA411c7VT?p=19&vd_source=25a1c8bedba59db324491f001dae3cfb)]
+### **Self-supervised Learning：**
+  * **Course/Video：**
+    * **[自监督学习[火炉课堂]](https://www.bilibili.com/video/BV1mf4y1K7xW)**：https://www.bilibili.com/video/BV1mf4y1K7xW
+    * **[Self-supervised Learning[HUNG-YI LEE]](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)**：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php [[**B站**](https://www.bilibili.com/video/BV1JA411c7VT?p=19&vd_source=25a1c8bedba59db324491f001dae3cfb)]
         
-      * **Book/Manuscript：**
+  * **Book/Manuscript：**
         
-  * **Foundation Model/Big Model**
-      * **Course/Video：**
+### **Foundation Model/Big Model**
+  * **Course/Video：**
       
-      * **Book/Manuscript：**
+  * **Book/Manuscript：**
 
-  * **Reinforcement Learning：**
-    * **Course/Video：**
-      * **[Reinforcement Learning[HUNG-YI LEE]](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)**：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php [[**B站**](https://www.bilibili.com/video/BV1JA411c7VT?p=30&vd_source=25a1c8bedba59db324491f001dae3cfb)] https://speech.ee.ntu.edu.tw/~hylee/mlds/2018-spring.php [[**B站**](https://www.bilibili.com/video/BV1MW411w79n)]
-      * **[Deep Reinforcement Learning[ShusenWang]](https://github.com/wangshusen/DRL)**：https://github.com/wangshusen/DRL
-      * **[Intro to Reinforcement learning[BoleiZhou]](https://github.com/zhoubolei/introRL)**：https://github.com/zhoubolei/introRL
-      * **[动手学强化学习[张伟楠]](https://www.boyuai.com/elites/course/xVqhU42F5IDky94x)**：https://www.boyuai.com/elites/course/xVqhU42F5IDky94x
-      * **[Reinforcement Learning[David Silver]](https://www.davidsilver.uk/teaching/)**：https://www.davidsilver.uk/teaching/
-    * **Book/Manuscript：**
-      * **[EasyRL[Datawhale]](https://github.com/datawhalechina/easy-rl)**：https://github.com/datawhalechina/easy-rl
-      * **[动手学强化学习[张伟楠等]](https://hrl.boyuai.com/)**：https://hrl.boyuai.com/
-      * **[OpenAI-Spinningup](https://spinningup.openai.com/)**：https://spinningup.openai.com/
-      * **[Reinforcement Learning: An Introduction, 2nd edition[Richard S. Sutton等]](http://incompleteideas.net/book/the-book.html)**：http://incompleteideas.net/book/the-book.html
-      * **[强化学习(第2版)[Richard S. Sutton等]](https://book.douban.com/subject/34809689/)**：https://book.douban.com/subject/34809689/
-    * [private](https://github.com/wangdongdut/ReinforcementLearning)
+### **Reinforcement Learning：**
+  * **Course/Video：**
+    * **[Reinforcement Learning[HUNG-YI LEE]](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)**：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php [[**B站**](https://www.bilibili.com/video/BV1JA411c7VT?p=30&vd_source=25a1c8bedba59db324491f001dae3cfb)] https://speech.ee.ntu.edu.tw/~hylee/mlds/2018-spring.php [[**B站**](https://www.bilibili.com/video/BV1MW411w79n)]
+    * **[Deep Reinforcement Learning[ShusenWang]](https://github.com/wangshusen/DRL)**：https://github.com/wangshusen/DRL
+    * **[Intro to Reinforcement learning[BoleiZhou]](https://github.com/zhoubolei/introRL)**：https://github.com/zhoubolei/introRL
+    * **[动手学强化学习[张伟楠]](https://www.boyuai.com/elites/course/xVqhU42F5IDky94x)**：https://www.boyuai.com/elites/course/xVqhU42F5IDky94x
+    * **[Reinforcement Learning[David Silver]](https://www.davidsilver.uk/teaching/)**：https://www.davidsilver.uk/teaching/
+  * **Book/Manuscript：**
+    * **[EasyRL[Datawhale]](https://github.com/datawhalechina/easy-rl)**：https://github.com/datawhalechina/easy-rl
+    * **[动手学强化学习[张伟楠等]](https://hrl.boyuai.com/)**：https://hrl.boyuai.com/
+    * **[OpenAI-Spinningup](https://spinningup.openai.com/)**：https://spinningup.openai.com/
+    * **[Reinforcement Learning: An Introduction, 2nd edition[Richard S. Sutton等]](http://incompleteideas.net/book/the-book.html)**：http://incompleteideas.net/book/the-book.html
+    * **[强化学习(第2版)[Richard S. Sutton等]](https://book.douban.com/subject/34809689/)**：https://book.douban.com/subject/34809689/
 
-  * **Transfer Learning/Meta-Learning/Few-shot Learning：**
-    * **Course/Video：**
-      * **[元学习[火炉课堂]](https://www.bilibili.com/video/BV1X34y1X7Z5)**：https://www.bilibili.com/video/BV1X34y1X7Z5
-    * **Book/Manuscript：**
-      
-  * **Life-long Learning/Continuous Learning：**
-    * **Course/Video：**
-    * **Book/Manuscript：**
+### **Transfer Learning/Meta-Learning/Few-shot Learning：**
+  * **Course/Video：**
+    * **[元学习[火炉课堂]](https://www.bilibili.com/video/BV1X34y1X7Z5)**：https://www.bilibili.com/video/BV1X34y1X7Z5
+  * **Book/Manuscript：**
+### **Life-long Learning/Continuous Learning：**
+  * **Course/Video：**
+  * **Book/Manuscript：**
