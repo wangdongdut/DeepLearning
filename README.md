@@ -48,9 +48,9 @@
 
 # Advance Topics
 
-## Model Compression/Knowledge Distillation：
-      * **Course/Video：**
-      * **Book/Manuscript：**
+## **Model Compression/Knowledge Distillation**
+  * **Course/Video：**
+  * **Book/Manuscript：**
 
   * **Self-supervised Learning：**
       * **Course/Video：**
