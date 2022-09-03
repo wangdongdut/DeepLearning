@@ -3,8 +3,8 @@
 ## Content
 
  **Pre-Reading**: 
- * 探寻人工智能: [第一季](https://www.bilibili.com/video/BV1tv411y76w), [第二季](https://www.bilibili.com/video/BV1Fz4y1f7gn)
- * Stanford AI Report 2022：[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf),[Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb)
+ * **探寻人工智能: [第一季](https://www.bilibili.com/video/BV1tv411y76w), [第二季](https://www.bilibili.com/video/BV1Fz4y1f7gn)**
+ * **Stanford AI Report 2022：[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf),[Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb)**
 
 
  | Content                   | Slides | Videos | Additional Reading | 
