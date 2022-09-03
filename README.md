@@ -48,7 +48,7 @@
 
 ## Advance Topics
 
- | Content                   | Slides | Videos | Additional Reading | 
+ |                   | |  |  | 
  |:-----------               |:----------------:|:----------------:|:----------------:|
  | Content                   | Slides | Videos | Additional Reading | 
  | Content                   | Slides | Videos | Additional Reading | 
