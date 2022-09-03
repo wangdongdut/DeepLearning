@@ -23,8 +23,8 @@
  | **Transformer**                    | [[PDF]()] | [[Video]()] |**Attention is All You Need:** [Paper](https://arxiv.org/abs/1706.03762), [Video](https://www.bilibili.com/video/BV1pu411o7BE/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
  | **Vision Transformer**             | [[PDF]()] | [[Video]()] |**ViT:** [Paper](https://arxiv.org/pdf/2010.11929.pdf), [Video](https://www.bilibili.com/video/BV15P4y137jb/?vd_source=25a1c8bedba59db324491f001dae3cfb) <br /> **DETR:** [Paper](https://arxiv.org/pdf/2005.12872.pdf), [Video](https://www.bilibili.com/video/BV1GB4y1X72R/?vd_source=25a1c8bedba59db324491f001dae3cfb) |
  | **Practice Transformer**           | [[PDF]()] | [[Video]()] |**BERT:** [Paper](https://arxiv.org/pdf/1810.04805.pdf), [Video](https://www.bilibili.com/video/BV1PL411M7eQ/) <br /> **MAE:** [Paper](https://arxiv.org/pdf/2111.06377.pdf), [Video](https://www.bilibili.com/video/BV1sq4y1q77t/) |
- | **Advance Topics**                 | [[PDF]()] | - | [Advance Topics](https://github.com/wangdongdut/DeepLearning#advance-topics) |
- | **Summary**                        | [[PDF]()] | - | [深度学习论文精读](https://github.com/mli/paper-reading) <br />  [论文写作资源收集](https://github.com/wangdongdut/PaperWriting) <br /> [AI竞赛资源收集]()|
+ | **Advance Topics**                 | - | - | [Advance Topics](https://github.com/wangdongdut/DeepLearning#advance-topics) |
+ | **Summary**                        | - | - | [深度学习论文精读](https://github.com/mli/paper-reading) <br />  [论文写作资源收集](https://github.com/wangdongdut/PaperWriting) <br /> [AI竞赛资源收集]()|
 
 ## Reference
   * **Course：**
