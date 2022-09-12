@@ -12,7 +12,7 @@
  | **Introduction**                   | [[PDF]()] | [[Video]()] |  [ImageNet挑战赛风云](https://mp.weixin.qq.com/s/IO9fNVSW4CF15Ls93Hak8A) <br /> [Reference](https://github.com/wangdongdut/DeepLearning#reference) |
  | **Basic Knowledge**                | [[PDF]()] | [[Video]()] | [如何看懂深度学习论文里的数学原理部分？[深度碎片]](https://www.zhihu.com/question/266533669) |
  | **Linear Model**                   | [[PDF]()] | [[Video]()] | [神经网络与深度学习[吴恩达]](https://www.deeplearningai.net/courseDetail/Neural_Networks_and_DeepLearning) |
- | **Nerual Network & Deep Learning** | [[PDF]()] | [[Video]()] |  |
+ | **Nerual Network & Deep Learning** | [[PDF]()] | [[Video]()] | The spelled-out intro to neural networks and backpropagation: building micrograd[Andrej Karpathy] |
  | **Network Training**               | [[PDF]()] | [[Video]()] | [神经网络训练不起来怎么办[李宏毅]](https://www.bilibili.com/video/BV1JA411c7VT?p=5) |
  | **Practice Basic Models**          | [[PDF]()] | [[Video]()] | [Pytorch-Tutorials](https://pytorch.org/tutorials/) |
  | **Convolutional Neural Networks (CNN)-I**  | [[PDF]()] | [[Video]()] |  [CNN Node-Link Visualization](https://www.cs.cmu.edu/~aharley/vis/) <br /> [cnn-explainer](https://poloclub.github.io/cnn-explainer/) |
