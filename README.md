@@ -4,7 +4,7 @@
    * **探寻人工智能: [第一季](https://www.bilibili.com/video/BV1tv411y76w), [第二季](https://www.bilibili.com/video/BV1Fz4y1f7gn)**
    * **从图灵测试到阿法狗，细说人工智能发展史：[Video](https://www.bilibili.com/video/BV1v64y1b7xu)**
    * **AlphaGo开发历程“电影纪实”**：**[Blog](https://mp.weixin.qq.com/s/t7c8GcpJNf5NoSoa-_gplQ)**
-   * **Stanford AI Report 2022：[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf),[Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb)**
+   * **Stanford AI Report 2022：[Paper](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf), [Video](https://www.bilibili.com/video/BV1s44y1N7eu?vd_source=25a1c8bedba59db324491f001dae3cfb)**
 
 ## Content
 
