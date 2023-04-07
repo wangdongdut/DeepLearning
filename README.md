@@ -51,7 +51,7 @@
 ### **Foundation Model/Large Model/Big Model/**
   * **Course/Video：**
     * **[大模型时代下做科研的四个思路[Yi Zhu]](https://www.bilibili.com/video/BV1oX4y1d7X6)**：[[**B站**](https://www.bilibili.com/video/BV1oX4y1d7X6)]
-    * **[机器学习2023(生成式AI)](https://www.youtube.com/watch?v=yiY4nPOzJEg&list=PLJV_el3uVTsOePyfmkfivYZ7Rqr2nMk3W)**
+    * **[机器学习2023(生成式AI)](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)**：https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
   * **Book/Manuscript：**
 
 ### **Model Compression/Knowledge Distillation**
