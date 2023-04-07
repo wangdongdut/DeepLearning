@@ -59,7 +59,7 @@
         
   * **Book/Manuscript：**
         
-### **Foundation Model/Big Model**
+### **Foundation Model/Large Model/Big Model/**
   * **Course/Video：**
       
   * **Book/Manuscript：**
