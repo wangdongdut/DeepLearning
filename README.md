@@ -52,6 +52,7 @@
   * **Course/Video：**
     * **[大模型时代下做科研的四个思路[Yi Zhu]](https://www.bilibili.com/video/BV1oX4y1d7X6)**：[[**B站**](https://www.bilibili.com/video/BV1oX4y1d7X6)]
     * **[机器学习2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)**：https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
+    * **GPT系列**：
   * **Book/Manuscript：**
 
 ### **Model Compression/Knowledge Distillation**
